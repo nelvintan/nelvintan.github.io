@@ -13,4 +13,4 @@ I am currently an undergraduate student at the [National University of Singapore
 
 **Email:** "nelvintan" followed by "@u.nus.edu.sg"
 
-**Links:** CV \| [LinkedIn](https://www.linkedin.com/in/nelvin-tan-290377151/) \| [GitHub](https://github.com/nelvintan)
+**Links:** [CV](http://nelvintan.github.io/files/CV.pdf) \| [LinkedIn](https://www.linkedin.com/in/nelvin-tan-290377151/) \| [GitHub](https://github.com/nelvintan)
