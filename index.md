@@ -1,4 +1,5 @@
-### [Home](./) | [Publications](./publications.html) |[Teaching](./teaching.html)
+**[Home](./) | [Publications](./publications.html) |[Teaching](./teaching.html)**
+
 ---
 
 ## About Me:
