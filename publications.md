@@ -1,5 +1,3 @@
-## Publications:
-
 Publications are listed in reverse chronological order. 
 
 ### Journal Papers:
