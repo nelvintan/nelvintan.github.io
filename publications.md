@@ -1,4 +1,4 @@
-### [Home](./) | [Publications](./publications.html) |[Teaching](./teaching.html)
+**[Home](./) \| [Publications](./publications.html) \| [Teaching](./teaching.html)**
 ---
 
 Publications are listed in reverse chronological order. 
