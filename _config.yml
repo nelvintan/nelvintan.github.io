@@ -1,10 +1,4 @@
 theme: jekyll-theme-primer
+
 title: Nelvin Tan
 description: Home Page
-navigation:
-  - title: Home
-    url: /
-  - title: Publications
-    url: publications
-  - title: Teaching
-    url: teaching
