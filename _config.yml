@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
 
-title: Nelvin Tan
-logo: /images/logo.png
-description: Links:
-- Linkedin
-- Github
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
