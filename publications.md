@@ -6,7 +6,7 @@ Publications are listed in reverse chronological order.
 
 ### Journal Papers:
 
-- **Near optimal sparsity-constrained group testing: improved bounds and algorithms**, Oliver Gebhard, Max Hahn-Klimroth, Olaf Parczyk, Manuel Penschuck, Maurice Rolvien, Jonathan Scarlett, and Nelvin Tan. \[[**arxiv**](https://arxiv.org/abs/2004.11860)\]
+- **Near Optimal Sparsity-Constrained Group Testing: Improved Bounds and Algorithms**, Oliver Gebhard, Max Hahn-Klimroth, Olaf Parczyk, Manuel Penschuck, Maurice Rolvien, Jonathan Scarlett, and Nelvin Tan. \[[**arxiv**](https://arxiv.org/abs/2004.11860)\]
 
 ### Conference Papers:
 
