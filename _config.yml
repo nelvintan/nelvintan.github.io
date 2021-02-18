@@ -1,3 +1,4 @@
 title: Nelvin Tan
 description: Home Page
 theme: jekyll-theme-primer
+plugins: - jekyll-sitemap
