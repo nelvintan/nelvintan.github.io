@@ -1,4 +1,7 @@
 title: Nelvin Tan
 description: Home Page
 theme: jekyll-theme-primer
-plugins: - jekyll-sitemap
+
+url: "https://nelvintan.github.io/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
