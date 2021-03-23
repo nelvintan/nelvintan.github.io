@@ -1,5 +1,5 @@
 ## About
-This repository is about my personal website. Some details to note:
+This repository is about my [personal website](https://nelvintan.github.io/). Some details to note:
 - all images go under the `images` folder.
 - all files go under the `files` folder.
 - site title and description are in the `_config.yml` file.
