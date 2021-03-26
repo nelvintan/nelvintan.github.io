@@ -14,4 +14,4 @@ Publications are listed in reverse chronological order.
 
 ### Theses:
 
-- **Sparse Group Testing: Bounds and Algorithms**, _Undergraduate Research Opportunity Program, 2020._ \[[**link**](http://nelvintan.github.io/files/UROP_final_report.pdf)\]
+- **Sparse Group Testing: Bounds and Algorithms**, _Undergraduate Research Opportunity Program, 2020._ \[[**link**](http://nelvintan.github.io/files/UROP_Final_Report.pdf)\]
