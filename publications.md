@@ -14,5 +14,5 @@ Publications are listed in reverse chronological order.
 
 ### Theses:
 
-- **Sparse Group Testing: Bounds and Algorithms**, Nelvin Tan. _Undergraduate Research Opportunity Program, 2020._ \[[**thesis**](http://nelvintan.github.io/files/UROP_Final_Report.pdf)\] \[[**slides**](http://nelvintan.github.io/files/UROP_Slides.pdf)\]
 - **Fast Splitting Algorithms for Noisy and Sparsity-Constrained Group Testing**, Nelvin Tan. _Final Year Project, 2021._
+- **Sparse Group Testing: Bounds and Algorithms**, Nelvin Tan. _Undergraduate Research Opportunity Program, 2020._ \[[**thesis**](http://nelvintan.github.io/files/UROP_Final_Report.pdf)\] \[[**slides**](http://nelvintan.github.io/files/UROP_Slides.pdf)\]
