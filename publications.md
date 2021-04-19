@@ -14,16 +14,16 @@ Oliver Gebhard, Max Hahn-Klimroth, Olaf Parczyk, Manuel Penschuck, Maurice Rolvi
 
 [1] **Near-Optimal Sparse Adaptive Group Testing** \
 Nelvin Tan and Jonathan Scarlett \
-_International Symposium on Information Theory (ISIT), 2020._ \
+_International Symposium on Information Theory (ISIT), 2020_ \
 \[[**arxiv**](https://arxiv.org/abs/2004.03119v1)\]
 
 ### Theses:
 
 [2] **Fast Splitting Algorithms for Noisy and Sparsity-Constrained Group Testing** \
 Nelvin Tan \
-_Final Year Project, 2021._
+_Final Year Project, 2021_
 
 [1] **Sparse Group Testing: Bounds and Algorithms** \
 Nelvin Tan \
-_Undergraduate Research Opportunity Program, 2020._ \
+_Undergraduate Research Opportunity Program, 2020_ \
 \[[**thesis**](http://nelvintan.github.io/files/UROP_Final_Report.pdf)\] \[[**slides**](http://nelvintan.github.io/files/UROP_Slides.pdf)\]
