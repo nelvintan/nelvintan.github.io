@@ -8,9 +8,15 @@ Publications are listed in reverse chronological order.
 
 [1] **Near Optimal Sparsity-Constrained Group Testing: Improved Bounds and Algorithms** \
 Oliver Gebhard, Max Hahn-Klimroth, Olaf Parczyk, Manuel Penschuck, Maurice Rolvien, Jonathan Scarlett, and Nelvin Tan \
+_(In Submission)_ \
 \[[**arxiv**](https://arxiv.org/abs/2004.11860)\]
 
 ### Conference Papers:
+
+[2] **Fast Splitting Algorithms for Sparsity-Constrained and Noisy Group Testing** \
+Eric Price, Jonathan Scarlett, and Nelvin Tan \
+_(In Submission)_ \
+\[[**arxiv**](https://arxiv.org/abs/2106.00308)\]
 
 [1] **Near-Optimal Sparse Adaptive Group Testing** \
 Nelvin Tan and Jonathan Scarlett \
