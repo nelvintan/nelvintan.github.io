@@ -11,6 +11,6 @@ I am currently an undergraduate student at the [National University of Singapore
 - Statistical Learning
 - High-Dimensional Statistics
 
-**Email:** "nelvintan" followed by "@u.nus.edu.sg"
+**Email:** "nelvintan" followed by "@u.nus.edu"
 
 **Links:** [CV](http://nelvintan.github.io/files/CV.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=TNkCP14AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nelvin-tan-290377151/) \| [GitHub](https://github.com/nelvintan)
