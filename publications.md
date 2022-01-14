@@ -6,7 +6,7 @@ Publications are listed in reverse chronological order.
 
 ### Journal Papers:
 
-[1] **Performance Bounds for Group Testing With Doubly-Regular Designs** \
+[2] **Performance Bounds for Group Testing With Doubly-Regular Designs** \
 Nelvin Tan, Way Tan, and Jonathan Scarlett \
 _(In Submission)_ \
 \[[**arxiv**](https://arxiv.org/abs/2201.03745)\]
