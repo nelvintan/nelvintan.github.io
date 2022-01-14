@@ -6,6 +6,11 @@ Publications are listed in reverse chronological order.
 
 ### Journal Papers:
 
+[1] **Performance Bounds for Group Testing With Doubly-Regular Designs** \
+Nelvin Tan, Way Tan, and Jonathan Scarlett \
+_(In Submission)_ \
+\[[**arxiv**](https://arxiv.org/abs/2201.03745)\]
+
 [1] **Near Optimal Sparsity-Constrained Group Testing: Improved Bounds and Algorithms** \
 Oliver Gebhard, Max Hahn-Klimroth, Olaf Parczyk, Manuel Penschuck, Maurice Rolvien, Jonathan Scarlett, and Nelvin Tan \
 _IEEE Transactions on Information Theory, 2021_ \
@@ -27,7 +32,7 @@ Nelvin Tan and Jonathan Scarlett \
 _International Symposium on Information Theory (ISIT), 2020_ \
 \[[**arxiv**](https://arxiv.org/abs/2004.03119v1)\]
 
-### Theses:
+### Reports:
 
 [2] **Fast Splitting Algorithms for Noisy and Sparsity-Constrained Group Testing** \
 Nelvin Tan \
