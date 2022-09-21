@@ -8,7 +8,7 @@ Publications are listed in reverse chronological order.
 
 [2] **Performance Bounds for Group Testing With Doubly-Regular Designs** \
 Nelvin Tan, Way Tan, and Jonathan Scarlett \
-_(In Submission)_ \
+_IEEE Transactions on Information Theory, 2022_ \
 \[[**arxiv**](https://arxiv.org/abs/2201.03745)\]
 
 [1] **Near Optimal Sparsity-Constrained Group Testing: Improved Bounds and Algorithms** \
