@@ -13,7 +13,7 @@ _IEEE Transactions on Information Theory, 2022_ \
 
 [1] **Near Optimal Sparsity-Constrained Group Testing: Improved Bounds and Algorithms** \
 Oliver Gebhard, Max Hahn-Klimroth, Olaf Parczyk, Manuel Penschuck, Maurice Rolvien, Jonathan Scarlett, and Nelvin Tan \
-_IEEE Transactions on Information Theory, 2021_ \
+_IEEE Transactions on Information Theory, 2022_ \
 \[[**arxiv**](https://arxiv.org/abs/2004.11860)\]
 
 ### Conference Papers:
