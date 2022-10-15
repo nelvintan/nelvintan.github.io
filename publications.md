@@ -6,6 +6,11 @@ Publications are listed in reverse chronological order.
 
 ### Journal Papers:
 
+[3] **Fast Splitting Algorithms for Sparsity-Constrained and Noisy Group Testing** \
+Eric Price, Jonathan Scarlett, and Nelvin Tan \
+_Information and Inference: A Journal of the IMA, 2022_ \
+\[[**arxiv**](https://arxiv.org/abs/2106.00308)\]
+
 [2] **Performance Bounds for Group Testing With Doubly-Regular Designs** \
 Nelvin Tan, Way Tan, and Jonathan Scarlett \
 _IEEE Transactions on Information Theory, 2022_ \
@@ -17,11 +22,6 @@ _IEEE Transactions on Information Theory, 2022_ \
 \[[**arxiv**](https://arxiv.org/abs/2004.11860)\]
 
 ### Conference Papers:
-
-[3] **Fast Splitting Algorithms for Sparsity-Constrained and Noisy Group Testing** \
-Eric Price, Jonathan Scarlett, and Nelvin Tan \
-_(In Submission)_ \
-\[[**arxiv**](https://arxiv.org/abs/2106.00308)\]
 
 [2] **An Analysis of the DD Algorithm for Group Testing with Size Constrained Tests** \
 Nelvin Tan and Jonathan Scarlett \
