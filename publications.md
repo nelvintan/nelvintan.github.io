@@ -23,6 +23,10 @@ _IEEE Transactions on Information Theory, 2022_ \
 
 ### Conference Papers:
 
+[3] **Mixed Linear Regression via Approximate Message Passing** \
+Nelvin Tan and Ramji Venkataramanan \
+_International Conference on Artificial Intelligence and Statistics (AISTATS), 2023_
+
 [2] **An Analysis of the DD Algorithm for Group Testing with Size Constrained Tests** \
 Nelvin Tan and Jonathan Scarlett \
 _International Symposium on Information Theory (ISIT), 2021_
