@@ -30,11 +30,12 @@ _International Conference on Artificial Intelligence and Statistics (AISTATS), 2
 [2] **An Analysis of the DD Algorithm for Group Testing with Size Constrained Tests** \
 Nelvin Tan and Jonathan Scarlett \
 _International Symposium on Information Theory (ISIT), 2021_
+\[[**slides**](http://nelvintan.github.io/files/ISIT2021_slides.pdf)\]
 
 [1] **Near-Optimal Sparse Adaptive Group Testing** \
 Nelvin Tan and Jonathan Scarlett \
 _International Symposium on Information Theory (ISIT), 2020_ \
-\[[**arxiv**](https://arxiv.org/abs/2004.03119v1)\]
+\[[**arxiv**](https://arxiv.org/abs/2004.03119v1)\] \[[**slides**](http://nelvintan.github.io/files/ISIT2020_slides.pdf)\]
 
 ### Reports:
 
