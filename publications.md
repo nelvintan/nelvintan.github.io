@@ -6,6 +6,11 @@ Publications are listed in reverse chronological order.
 
 ### Journal Papers:
 
+[4] **Mixed Regression via Approximate Message Passing** \
+Nelvin Tan and Ramji Venkataramanan \
+_In Submission_ \
+\[[**arxiv**](https://arxiv.org/abs/2304.02229)\]
+
 [3] **Fast Splitting Algorithms for Sparsity-Constrained and Noisy Group Testing** \
 Eric Price, Jonathan Scarlett, and Nelvin Tan \
 _Information and Inference: A Journal of the IMA, 2022_ \
