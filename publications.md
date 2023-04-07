@@ -31,7 +31,7 @@ _IEEE Transactions on Information Theory, 2022_ \
 [3] **Mixed Linear Regression via Approximate Message Passing** \
 Nelvin Tan and Ramji Venkataramanan \
 _International Conference on Artificial Intelligence and Statistics (AISTATS), 2023_ \
-\[[**full version**](https://arxiv.org/abs/2304.02229)\] \[[**poster**](https://github.com/nelvintan/nelvintan.github.io/files/MLR_Poster.pdf)\] \[[**code**](https://github.com/nelvintan/nelvintan.github.io/tree/main/files/Paper_codes/1_MLR_AMP)\]
+\[[**full version**](https://arxiv.org/abs/2304.02229)\] \[[**poster**](http://nelvintan.github.io/files/MLR_Poster.pdf)\] \[[**code**](https://github.com/nelvintan/nelvintan.github.io/tree/main/files/Paper_codes/1_MLR_AMP)\]
 
 [2] **An Analysis of the DD Algorithm for Group Testing with Size Constrained Tests** \
 Nelvin Tan and Jonathan Scarlett \
