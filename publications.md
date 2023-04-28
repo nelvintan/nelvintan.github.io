@@ -9,7 +9,7 @@ Publications are listed in reverse chronological order.
 [4] **Mixed Regression via Approximate Message Passing** \
 Nelvin Tan and Ramji Venkataramanan \
 _In Submission_ \
-\[[**arxiv**](https://arxiv.org/abs/2304.02229)\]
+\[[**arxiv**](https://arxiv.org/abs/2304.02229)\] \[[**code**](https://github.com/nelvintan/AMP_for_Mixed_Regression)\]
 
 [3] **Fast Splitting Algorithms for Sparsity-Constrained and Noisy Group Testing** \
 Eric Price, Jonathan Scarlett, and Nelvin Tan \
