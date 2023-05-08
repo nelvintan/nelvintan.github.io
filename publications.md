@@ -47,10 +47,10 @@ _International Symposium on Information Theory (ISIT), 2020_ \
 
 [2] **Fast Splitting Algorithms for Noisy and Sparsity-Constrained Group Testing** \
 Nelvin Tan \
-_Final Year Project, 2021_ \
+_Final Year Project (National University of Singapore), 2021_ \
 \[[**thesis**](http://nelvintan.github.io/files/FYP_Final_Report.pdf)\] \[[**slides**](http://nelvintan.github.io/files/FYP_Slides.pdf)\]
 
 [1] **Sparse Group Testing: Bounds and Algorithms** \
 Nelvin Tan \
-_Undergraduate Research Opportunity Program, 2020_ \
+_Undergraduate Research Opportunity Program (National University of Singapore), 2020_ \
 \[[**thesis**](http://nelvintan.github.io/files/UROP_Final_Report.pdf)\] \[[**slides**](http://nelvintan.github.io/files/UROP_Slides.pdf)\]
