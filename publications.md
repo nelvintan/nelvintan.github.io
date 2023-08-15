@@ -8,17 +8,17 @@ Publications are listed in reverse chronological order.
 
 [4] **Mixed Regression via Approximate Message Passing** \
 Nelvin Tan and Ramji Venkataramanan \
-_In Submission_ \
+_ournal of Machine Learning Research (JMLR), 2023_ \
 \[[**arxiv**](https://arxiv.org/abs/2304.02229)\] \[[**code**](https://github.com/nelvintan/AMP_for_Mixed_Regression)\]
 
 [3] **Fast Splitting Algorithms for Sparsity-Constrained and Noisy Group Testing** \
 Eric Price, Jonathan Scarlett, and Nelvin Tan \
-_Information and Inference: A Journal of the IMA, 2022_ \
+_Information and Inference: A Journal of the IMA, 2023_ \
 \[[**arxiv**](https://arxiv.org/abs/2106.00308)\]
 
 [2] **Performance Bounds for Group Testing With Doubly-Regular Designs** \
 Nelvin Tan, Way Tan, and Jonathan Scarlett \
-_IEEE Transactions on Information Theory, 2022_ \
+_IEEE Transactions on Information Theory, 2023_ \
 \[[**arxiv**](https://arxiv.org/abs/2201.03745)\]
 
 [1] **Near Optimal Sparsity-Constrained Group Testing: Improved Bounds and Algorithms** \
