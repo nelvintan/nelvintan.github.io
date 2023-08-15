@@ -8,7 +8,7 @@ Publications are listed in reverse chronological order.
 
 [4] **Mixed Regression via Approximate Message Passing** \
 Nelvin Tan and Ramji Venkataramanan \
-_ournal of Machine Learning Research (JMLR), 2023_ \
+_Journal of Machine Learning Research (JMLR), 2023_ \
 \[[**arxiv**](https://arxiv.org/abs/2304.02229)\] \[[**code**](https://github.com/nelvintan/AMP_for_Mixed_Regression)\]
 
 [3] **Fast Splitting Algorithms for Sparsity-Constrained and Noisy Group Testing** \
