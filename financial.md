@@ -23,7 +23,7 @@ I would achieve this by being thrifty and putting the remaining funds into savin
 
 The purpose of insurance is to provide a safety net for undesired circumstances (injury, illness, disability, etc.). An excellent guide to insurance is provided [here](https://www.reddit.com/r/singaporefi/comments/jdxn37/a_guide_to_insurance_in_singapore/). I believe integrated shield plans, life insurance, and total permanent disability insurance are the crucial ones.
 
-**Remark.** Generally, insurance saving, endowment and retirement plans are sub-optimal and it might be wise to avoid them. This is explained in greater detail by this [post](https://www.reddit.com/r/singaporefi/comments/og2hjo/about_insurance_saving_endownment_and_retirement/).
+**Remark.** Generally, insurance saving, endowment, and retirement plans are sub-optimal and it might be wise to avoid them. This is explained in greater detail by this [post](https://www.reddit.com/r/singaporefi/comments/og2hjo/about_insurance_saving_endownment_and_retirement/).
 
 ### Investing
 
