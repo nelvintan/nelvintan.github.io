@@ -9,7 +9,7 @@ Publications are listed in reverse chronological order.
 [5] **Approximate Message Passing with Rigorous Guarantees for Pooled Data and Quantitative Group Testing** \
 Nelvin Tan, Jonathan Scarlett, and Ramji Venkataramanan \
 _In Submission, 2023_ \
-\[[**arxiv**](https://arxiv.org/abs/2309.15507)\] \[[**code**](https://github.com/nelvintan/AMP_for_Mixed_Regression)\]
+\[[**arxiv**](https://arxiv.org/abs/2309.15507)\] \[[**code**](https://github.com/nelvintan/AMP_for_Pooled_Data_and_QGT)\]
 
 [4] **Mixed Regression via Approximate Message Passing** \
 Nelvin Tan and Ramji Venkataramanan \
