@@ -1,6 +1,6 @@
 ### Introduction
 
-This is a note on attaining financial independence in Singapore that I have written for myself[^1].
+This is a note on attaining financial independence/freedom in Singapore that I have written for myself[^1].
 
 **What is financial independence?** It means being able to survive financially from one's passive income without having to work any further. To have passive income, one has to figure out the amount of money that needs to be invested -- this is known as the *financial independence (FI) number*. For example, if your investments pay you 4% per year and you require 5000 SGD per month, then your FI number would be (5000 x 12) / 0.04 = 1,500,000 SGD.
 
