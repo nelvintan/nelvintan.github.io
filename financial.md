@@ -1,3 +1,7 @@
+**[Home](./) \| [Publications](./publications.html) \| [Others](./others.html)**
+
+---
+
 ### Introduction
 
 This is a note on attaining financial independence/freedom in Singapore that I have written for myself[^1].
