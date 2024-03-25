@@ -8,7 +8,7 @@ Publications are listed in reverse chronological order.
 
 [5] **Approximate Message Passing with Rigorous Guarantees for Pooled Data and Quantitative Group Testing** \
 Nelvin Tan, Pablo Pascual Cobo, Jonathan Scarlett, and Ramji Venkataramanan \
-_In Submission, 2023_ \
+_In Submission, 2024_ \
 \[[**arxiv**](https://arxiv.org/abs/2309.15507)\] \[[**code**](https://github.com/PabloPasc/AMP_Pooled_QGT)\]
 
 [4] **Mixed Regression via Approximate Message Passing** \
@@ -32,6 +32,11 @@ _IEEE Transactions on Information Theory, 2022_ \
 \[[**arxiv**](https://arxiv.org/abs/2004.11860)\]
 
 ### Conference Papers:
+
+[4] **Quantitative Group Testing and Pooled Data with Sublinear Number of Tests** \
+Nelvin Tan, Pablo Pascual Cobo, and Ramji Venkataramanan \
+_International Zurich Seminar on Information and Communication (IZS), 2024_ \
+\[[**pdf**](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/664209/Proceedings.pdf?sequence=1#page=14)\]
 
 [3] **Mixed Linear Regression via Approximate Message Passing** \
 Nelvin Tan and Ramji Venkataramanan \
