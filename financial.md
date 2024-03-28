@@ -19,9 +19,11 @@ These topics will be introduced in more detail in the next few sections. In case
 
 ### Emergency fund
 
-This is cash that one has to set aside in case of emergencies. The recommendation is to keep around 6-12 months worth of expenditure. Paying off all types of loans would also help towards this venture.
+This is cash that one has to set aside in case of emergencies. The recommendation is to keep around 6 months worth of expenditure in cash. Paying off all types of loans would also help towards financial freedom. I would achieve this by being thrifty and putting the remaining funds into savings. Whenever I take funds out to invest, I would then ensure that there is at least 6 months' worth of expenditure left in the bank account. 
 
-I would achieve this by being thrifty and putting the remaining funds into savings. Whenever I take funds out to invest, I would then ensure that there is at least one year's worth of expenditure left in the bank. Furthermore, it is important to understand how the CPF works since a portion of your income goes there. An overview of CPF is provided [here](https://www.cpf.gov.sg/member/cpf-overview) and a guide to CPF is provided [here](https://www.reddit.com/r/singaporefi/comments/jqglfs/a_guide_to_cpf/)
+Another liquid option is to place one's money in a *money market fund* -- see this [video](https://www.youtube.com/watch?app=desktop&v=yFsyc_bLw30&ab_channel=KelvinLearnsInvesting) for a good guide on this topic. Money market funds give around the same yearly yield as Singapore saving bonds, T-bills, and fixed deposits from bank, with one major advantage -- you can withdraw your money quickly, with most funds allowing you to withdraw within a day or two. A good Singapore money market fund would be the [Fullerton SGD Cash Fund A](https://www.fullertonfund.com/fund/fullerton-sgd-cash-fund-a/). I would put excess savings (after deducting 6 months' expenditure and are not already invested into other areas) into money market funds since they are liquid and I can get some yield out of them. 
+
+Furthermore, it is important to understand how the CPF works since a portion of your income goes there. An overview of CPF is provided [here](https://www.cpf.gov.sg/member/cpf-overview) and a guide to CPF is provided [here](https://www.reddit.com/r/singaporefi/comments/jqglfs/a_guide_to_cpf/)
 
 ### Insurance
 
