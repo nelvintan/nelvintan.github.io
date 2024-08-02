@@ -6,6 +6,11 @@ Publications are listed in reverse chronological order.
 
 ### Journal Papers:
 
+[6] **Quantitative Group Testing and Pooled Data in the Linear Regime with Sublinear Tests** \
+Nelvin Tan, Pablo Pascual Cobo, and Ramji Venkataramanan \
+_In Submission_ \
+\[[**arxiv**](https://arxiv.org/abs/2408.00385)\] \[[**code**](https://github.com/PabloPasc/SC_AMP_QGT)\]
+
 [5] **Approximate Message Passing with Rigorous Guarantees for Pooled Data and Quantitative Group Testing** \
 Nelvin Tan, Pablo Pascual Cobo, Jonathan Scarlett, and Ramji Venkataramanan \
 _SIAM Journal on Mathematics of Data Science (SIMODS), 2024_ \
