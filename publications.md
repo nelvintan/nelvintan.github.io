@@ -58,7 +58,7 @@ Nelvin Tan and Jonathan Scarlett \
 _International Symposium on Information Theory (ISIT), 2020_ \
 \[[**arxiv**](https://arxiv.org/abs/2004.03119v1)\] \[[**slides**](http://nelvintan.github.io/files/ISIT2020_slides.pdf)\]
 
-### Reports:
+### Dissertations:
 
 [3] **Approximate Message Passing for Matrix Regression** \
 Nelvin Tan \
