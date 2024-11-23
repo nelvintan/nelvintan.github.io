@@ -62,7 +62,7 @@ _International Symposium on Information Theory (ISIT), 2020_ \
 
 [3] **Approximate Message Passing for Matrix Regression** \
 Nelvin Tan \
-_Ph.D. Thesis (University of Cambridge), 2024_
+_Ph.D. Thesis (University of Cambridge), 2024_ \
 \[[**thesis**](https://www.repository.cam.ac.uk/items/3eb748bc-42bc-48af-a1ac-b9f6c726cbc0)\] \[[**slides**](http://nelvintan.github.io/files/PhD_slides.pdf)\]
 
 [2] **Fast Splitting Algorithms for Noisy and Sparsity-Constrained Group Testing** \
