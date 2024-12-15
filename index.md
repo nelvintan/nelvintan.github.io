@@ -11,6 +11,6 @@ I am a scientist at the American Express Innovation Laboratories. I received my 
 - Statistical Learning
 - High-Dimensional Statistics
 
-**Email:** "tcnt2" followed by "@cam.ac.uk"
+**Email:** "nelvintan" followed by "@hotmail.com"
 
 **Links:** [CV](http://nelvintan.github.io/files/CV.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=TNkCP14AAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/nelvin-tan-290377151/) \| [GitHub](https://github.com/nelvintan)
