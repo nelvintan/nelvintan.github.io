@@ -45,8 +45,9 @@ My personal preference would be to go for one US fund and one local (Singapore) 
 - Open up an account (with either DBS, OCBC, or UOB). I went with DBS, the DBS instructions are listed [here](https://www.dbs.com.sg/personal/support/bank-account-srs-account-opening.html).
 - Link one's POEMS account with one's SRS account -- the instructions are listed [here](https://www.poems.com.sg/release-notes/poems-online-services-quick-reference-guide/#srscpf).
 - After both steps are completed, one can log into POEMS and start investing. To use funds from your SRS account, select payment type as SRS when purchasing investments.
+
 (**Note.** ES3.SI introduced above can be bought using one's SRS funds -- this is personally what I use my SRS funds for.) 
 
-**Remark.** One might often wonder if it is worth using roboinvestors instead of investing through trading platforms (as mentioned above). It turns out that if we are planning to invest a large amount of money for the long run, then the cost of roboinvestors eventually exceeds the cost of investing through trading platforms -- for a more concrete comparison, see this [case study](https://www.reddit.com/r/singaporefi/comments/t1u7yf/1000_is_all_you_need_for_diy_to_be_cheaper_than/) illustrating that $1000 is all you need for investing through trading plaforms to be cheaper than roboinvestors.
+**Roboinvestors.** One might often wonder if it is worth using roboinvestors instead of investing through trading platforms (as mentioned above). It turns out that if we are planning to invest a large amount of money for the long run, then the cost of roboinvestors eventually exceeds the cost of investing through trading platforms -- for a more concrete comparison, see this [case study](https://www.reddit.com/r/singaporefi/comments/t1u7yf/1000_is_all_you_need_for_diy_to_be_cheaper_than/) illustrating that $1000 is all you need for investing through trading plaforms to be cheaper than roboinvestors.
 
 *(Other things that might be of financial interest: lasting power of attorney, and writing of will -- explanations of these are omitted here.)*
