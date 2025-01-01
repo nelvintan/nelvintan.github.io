@@ -23,7 +23,7 @@ This is cash that one has to set aside in case of emergencies. The recommendatio
 
 **Remark.** Some brokerage firms offer decent yields if you park your money in their accounts (around 3% per annum). An example of this would be the POEMS [cash plus](https://www.poems.com.sg/cash-plus/) account. I would put extra funds (outside of my emergency funds) in such accounts since my funds would be liquid, and I get a nice yield bonus on top of it. Setting up a brokerage account is also crucial for investing (introduced later) so no harm setting it up earlier. 
 
-Furthermore, it is important to understand how the CPF works since a portion of your income goes there. An overview of CPF is provided [here](https://www.cpf.gov.sg/member/cpf-overview) and a guide to CPF is provided [here](https://www.reddit.com/r/singaporefi/comments/jqglfs/a_guide_to_cpf/)
+Furthermore, it is important to understand how the Central Provident Fund (CPF) works since a portion of your income goes there. An overview of CPF is provided [here](https://www.cpf.gov.sg/member/cpf-overview) and a guide to CPF is provided [here](https://www.reddit.com/r/singaporefi/comments/jqglfs/a_guide_to_cpf/)
 
 ### Insurance
 
@@ -40,6 +40,8 @@ A low-risk and time-tested way to invest would be through the use of index funds
 My personal preference would be to go for one US fund and one local (Singapore) fund, with the following choices:
 - **US choice:** [Vanguard S&P 500 UCITS ETF USD Accumulation (VUAA.L)](https://finance.yahoo.com/quote/VUAA.L/). The fund employs an indexing investment approach designed to track the performance of the Standard and Poor's 500 Index, a widely recognized benchmark of US stock market performance that is dominated by the stocks of large US companies. This fund can be bought through POEMS.
 - **Local choice:** [SPDR Straits Times Index ETF (ES3.SI)](https://sg.finance.yahoo.com/quote/es3.si/). This fund approximately mirrors the Straits Times Index (STI). It is usually compared to [Nikko AM Singapore STI ETF (G3B.SI)](https://sg.finance.yahoo.com/quote/G3B.SI/), but I prefer ES3.SI since the fund is larger which might allude to better stability. This fund can be bought through POEMS.
+
+**Supplementary Retirement Scheme (SRS).** This is a voluntary scheme that complements the CPF, where we can contribute a varying amount (subject to a cap) every year -- the contributions may be used to purchase various investment instruments. The SRS offers attractive tax benefits. Contributions to SRS are eligible for tax relief, investment returns are accumulated tax-free (with the exception of Singapore dividends), and only 50% of the withdrawals from SRS are taxable at retirement.
 
 **Remark.** One might often wonder if it is worth using roboinvestors instead of investing through trading platforms (as mentioned above). It turns out that if we are planning to invest a large amount of money for the long run, then the cost of roboinvestors eventually exceeds the cost of investing through trading platforms -- for a more concrete comparison, see this [case study](https://www.reddit.com/r/singaporefi/comments/t1u7yf/1000_is_all_you_need_for_diy_to_be_cheaper_than/) illustrating that $1000 is all you need for investing through trading plaforms to be cheaper than roboinvestors.
 
