@@ -38,6 +38,16 @@ _IEEE Transactions on Information Theory, 2022_ \
 
 ### Conference Papers:
 
+[6] **Flexible and Efficient Drift Detection without Labels** \
+Nelvin Tan, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
+_In Submission_ \
+\[[**arxiv**](https://arxiv.org/abs/2506.08734)\]
+
+[5] **Improved LLM Agents for Financial Document Question Answering** \
+Nelvin Tan, Zian Seng, Liang Zhang, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
+_In Submission_ \
+\[[**arxiv**](https://arxiv.org/abs/2506.08726)\]
+
 [4] **Quantitative Group Testing and Pooled Data with Sublinear Number of Tests** \
 Nelvin Tan, Pablo Pascual Cobo, and Ramji Venkataramanan \
 _International Zurich Seminar on Information and Communication (IZS), 2024_ \
