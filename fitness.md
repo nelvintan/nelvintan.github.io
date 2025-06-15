@@ -16,9 +16,11 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 - **Pushing past failure.** Muscles only grow when they are pushed past failure.
 - **Rest and recovery.** Muscles only grow when they have sufficient time to recover.
 
-**Pushing past failure.** My understanding of this concept is to select a exercise (with a chosen weight / diffulty) such that you are only able to do around 10 repetitions for the upper body and 15 repetitions of lower body (since the lower body is known to have better stamina). The exercise is then perform to failure (i.e., point where you are no longer able to do another repition). At the point of failure and the middle of the repetition (e.g., at the top of a pull-up or at the bottom of a dip), pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) slow -- count to 10 on the way down.
+**Pushing past failure.** 
+- My understanding of this concept is to select a exercise (with a chosen weight / diffulty) such that you are only able to do around 10 repetitions for the upper body and 15 repetitions of lower body (since the lower body is known to have better stamina).
+- The exercise is then perform to failure (i.e., point where you are no longer able to do another repition). At the point of failure and the middle of the repetition (e.g., at the top of a pull-up or at the bottom of a dip), pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) slow -- count to 10 on the way down.
 
-**Rest and recovery.** 
+**Rest and recovery:** 
 - The first idea is not to do too many sets, Mike Mentzer recommended one set but I assume this is not counting the warm up sets. An example for weighted pull-ups is the following:
     - 1 set of 10 repetitions of scapular pull-ups (body weight)
     - 1 set of 10 repetitions of pull-ups (body weight)
