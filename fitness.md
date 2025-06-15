@@ -10,8 +10,8 @@ I first heard about his philosophy on YouTube where I saw videos of him preachin
 
 This led me to look into his background which impressed me, which eventually led to me being convinced of his philosophy. Mike Mentzer was both a philosopher and bodybuilder, who at his peak (in 1978) won the Mr. Universe in Acapulco, Mexico, with the first and only perfect 300 score. More impressively, at that time he was also studying medicine[^2] (more specifically, pre-med at the Univeristy of Maryland) with aims to become a psychiatrist -- though he eventually left this pursuit to focus on bodybuilding.
 
-[^1]: https://en.m.wikipedia.org/wiki/Mike_Mentzer
-[^2]: https://youtube.com/shorts/FpBSxlOWMuc?si=eWOUHT-oGvJuvOIb
+[^1]: <https://en.m.wikipedia.org/wiki/Mike_Mentzer>
+[^2]: <https://youtube.com/shorts/FpBSxlOWMuc?si=eWOUHT-oGvJuvOIb>
 
 ### Exercise Philosophy
 
