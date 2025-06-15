@@ -6,19 +6,19 @@
 
 I decided to write this note down to crystallise my understanding of Mike Mentzer's workout philosophy and to adapt it for my own use. 
 
-I first heard about his philosophy on YouTube where I saw videos of him preaching that one only needs to do one set of an exercise for a muscle group, per week, to grow. This was a intriguing statement but also one that resonates to me since it makes since for the typical busy adult who still wants to train and stay healthy / have an aesthetic physique.
+**Preface.** I first heard about his philosophy on YouTube where I saw videos of him preaching that one only needs to do one set of an exercise for a muscle group, per week, to grow. This was a intriguing statement but also one that resonates to me since it makes since for the typical busy adult who still wants to train and stay healthy / have an aesthetic physique.
 
 This led me to look into his background which impressed me. Mike Mentzer was both a philosopher and bodybuilder, who at his peak (in 1978) won the Mr. Universe in Acapulco, Mexico, with the first and only perfect 300 score. More impressively, at that time he was also studying medicine (more specifically, pre-med at the Univeristy of Maryland) with aims to become a psychiatrist -- though he eventually left this pursuit to focus on bodybuilding.
 
 ### Exercise Philosophy
 
 His philosophy (named the heavy duty workout or high intensity training) behind the growth of muscle mainly focuses on two key points:
-- **Pushing past failure**: Muscles only grow when they are pushed past failure.
-- **Rest and recovery**: Muscles only grow when they have sufficient time to recover.
+- **Pushing past failure.** Muscles only grow when they are pushed past failure.
+- **Rest and recovery.** Muscles only grow when they have sufficient time to recover.
 
-**Pushing past failure:** My understanding of this concept is to select a exercise (with a chosen weight / diffulty) such that you are only able to do around 10 repetitions for the upper body and 15 repetitions of lower body (since the lower body is known to have better stamina). The exercise is then perform to failure (i.e., point where you are no longer able to do another repition). At the point of failure and the middle of the repetition (e.g., at the top of a pull-up or at the bottom of a dip), pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) slow -- count to 10 on the way down.
+**Pushing past failure.** My understanding of this concept is to select a exercise (with a chosen weight / diffulty) such that you are only able to do around 10 repetitions for the upper body and 15 repetitions of lower body (since the lower body is known to have better stamina). The exercise is then perform to failure (i.e., point where you are no longer able to do another repition). At the point of failure and the middle of the repetition (e.g., at the top of a pull-up or at the bottom of a dip), pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) slow -- count to 10 on the way down.
 
-**Rest and recovery:** 
+**Rest and recovery.** 
 - The first idea is not to do too many sets, Mike Mentzer recommended one set but I assume this is not counting the warm up sets. An example for weighted pull-ups is the following:
     - 1 set of 10 repetitions of scapular pull-ups (body weight)
     - 1 set of 10 repetitions of pull-ups (body weight)
