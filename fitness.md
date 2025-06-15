@@ -29,9 +29,12 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 
 
 ### My example:
+My goals are to workout such that I can (i) improve my health, and (ii) achieve (and eventually maintain) an aesthetic physique. I have incorporated Mentzer's philosophy in the following manner:
 - I perform 1 full-body workout with 1 exercise per body part once a week:
     - Weighted pull-ups for the back;
     - Body weight ring dips for the chest;
     - Bulgarian split squats for the quadriceps;
     - Single-leg romanian deadlift for the hamstrings.
 - On the other days I mainly do cardio (3km of light run) followed by 1 set of pull-ups taken past failure, and 1 set of dips taken past failure.
+
+In total I exercise about 3-5 times a week with each workout taking around 30 minutes and no more than 45 minutes. If one is busy, they are able to get away with just 1 workout per week (i.e., the full-body workout) by employing Mentzer's philosophy.
