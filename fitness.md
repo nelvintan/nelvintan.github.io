@@ -10,6 +10,26 @@ I first heard about his philosophy on YouTube where I saw videos of him preachin
 
 This led me to look into his background which impressed me. Mike Mentzer was both a philosopher and bodybuilder, who at his peak (in 1978) won the Mr. Universe in Acapulco, Mexico, with the first and only perfect 300 score. More impressively, at that time he was also studying medicine (more specifically, pre-med at the Univeristy of Maryland) with aims to become a psychiatrist -- though he eventually left this pursuit to focus on bodybuilding.
 
+### Exercise Philosophy
+
 His philosophy (named the heavy duty workout or high intensity training) behind the growth of muscle mainly focuses on two key points:
-- *Pushing past failure*: Muscles only grow when they are pushed past failure.
-- *Rest and recovery*: Muscles only grow when they have sufficient time to recover.
+- **Pushing past failure**: Muscles only grow when they are pushed past failure.
+- **Rest and recovery**: Muscles only grow when they have sufficient time to recover.
+
+**Pushing past failure:** My understanding of this concept is to select a exercise (with a chosen weight / diffulty) such that you are only able to do around 10 repetitions for the upper body and 15 repetitions of lower body (since the lower body is known to have better stamina). The exercise is then perform to failure (i.e., point where you are no longer able to do another repition). At the point of failure and the middle of the repetition (e.g., at the top of a pull-up or at the bottom of a dip), pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) slow -- count to 10 on the way down.
+
+**Rest and recovery:** 
+- The first idea is not to do too many sets, Mike Mentzer recommended one set but I assume this is not counting the warm up sets. An example for weighted pull-ups is the following:
+    - 1 set of 10 repetitions of scapular pull-ups (body weight)
+    - 1 set of 10 repetitions of pull-ups (body weight)
+    - 1-2 set(s) of weighted pull-ups taken to failure.
+- The second idea to take a few days (3-7) of rest between workouts. This works to the advantage of people with busy schedules.
+
+
+### My example:
+- I perform 1 full-body workout with 1 exercise per body part once a week:
+    - Weighted pull-ups for the back;
+    - Body weight ring dips for the chest;
+    - Bulgarian split squats for the quadriceps;
+    - Single-leg romanian deadlift for the hamstrings.
+- On the other days I mainly do cardio (3km of light run) followed by 1 set of pull-ups taken past failure, and 1 set of dips taken past failure.
