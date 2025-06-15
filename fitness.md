@@ -31,7 +31,7 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 - The second idea is to take a few days (3-7) of rest between workouts. This works to the advantage of people with busy schedules.
 
 
-### My example:
+### My Example:
 My goals are to workout such that I can (i) improve my health, and (ii) achieve (and eventually maintain) an aesthetic physique. I have incorporated Mentzer's philosophy to my own workouts (which have a calisthenics flavour) in the following manner:
 - I perform 1 full-body workout with 1 exercise per body part once a week:
     - Weighted pull-ups for the back;
