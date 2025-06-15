@@ -6,9 +6,9 @@
 
 I decided to write this note down to crystallise my understanding of Mike Mentzer's[^1] workout philosophy and to adapt it for my own use. 
 
-I first heard about his philosophy on YouTube where I saw videos of him preaching that one only needs to do one set of an exercise for a muscle group, per week, to grow. This was an intriguing statement but also one that resonates to me since it makes sense (and is very practical) for the typical busy working adult who still wants to train and stay healthy / have an aesthetic physique.
+I first heard about his philosophy on YouTube where I saw videos of him preaching that one only needs to do one set of an exercise for a muscle group, per week, to grow. This was an intriguing statement but also one that resonates with me since it makes sense (and is very practical) for the typical busy working adult who still wants to train and stay healthy / have an aesthetic physique.
 
-This led me to look into his background which impressed me, which eventually led to me being convinced of his philosophy. Mike Mentzer was both a philosopher and bodybuilder, who at his peak (in 1978) won the Mr. Universe in Acapulco, Mexico, with the first and only perfect 300 score. More impressively, at that time he was also studying medicine[^2] (more specifically, pre-med at the Univeristy of Maryland) with aims to become a psychiatrist -- though he eventually left this pursuit to focus on bodybuilding.
+This led me to look into his background which impressed me, and that eventually led to me being convinced of his philosophy. Mike Mentzer was both a philosopher and bodybuilder, who at his peak (in 1978) won the Mr. Universe in Acapulco, Mexico, with the first and only perfect 300 score. More impressively, at that time he was also studying medicine[^2] (more specifically, pre-med at the Univeristy of Maryland) with aims to become a psychiatrist -- though he eventually left this pursuit to focus on bodybuilding.
 
 [^1]: <https://en.m.wikipedia.org/wiki/Mike_Mentzer>
 [^2]: <https://youtube.com/shorts/FpBSxlOWMuc?si=eWOUHT-oGvJuvOIb>
