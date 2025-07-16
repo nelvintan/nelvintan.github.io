@@ -26,9 +26,9 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 
 **Rest and recovery:** 
 - The first idea is not to do too many sets, Mike Mentzer recommended one set but I assume this is not counting the warm-up sets. An example for weighted pull-ups is the following:
-    - 1 set of 10 repetitions of scapular pull-ups (body weight);
-    - 1 set of 10 repetitions of pull-ups (body weight);
-    - 1-2 set(s) of weighted pull-ups taken to failure.
+    - **Warmup.** 1 set of 10 repetitions of scapular pull-ups (body weight);
+    - **Warmup.** 1 set of 10 repetitions of pull-ups (body weight);
+    - Main: 1-2 set(s) of weighted pull-ups taken to failure.
 - The second idea is to take a few days (3-7) of rest between workouts. This works to the advantage of people with busy schedules.
 
 
