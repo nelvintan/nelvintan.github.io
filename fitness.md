@@ -26,15 +26,14 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 - An alternative if one is unable to gauge the failure point:
     - Perform the repetitions until one can no longer perform another complete repetition.
     - Jump to the 'peak' point of the repetition, pause for a moment, and then take the negative through slowly (i.e., 10 seconds).
-    - A caveat is that it the notion of jumping into the peak position might not work for all exercises -- example of working ones: pull ups and dips.
+    - A caveat is that the notion of jumping into the peak position might not work for all exercises -- example of working ones: pull ups and dips.
 
 **Rest and recovery:** 
 - The first idea is not to do too many sets, Mike Mentzer recommended one set but I assume this is not counting the warm-up sets. An example for weighted pull-ups is the following:
     - **Warmup.** 1 set of 10 repetitions of scapular pull-ups (body weight);
     - **Warmup.** 1 set of 10 repetitions of pull-ups (body weight);
-    - **Main.** 1-2 set(s) of weighted pull-ups taken to failure.
+    - **Main.** 1-2 set(s) of weighted pull-ups taken past failure.
 - The second idea is to take a few days (3-7) of rest between workouts. This works to the advantage of people with busy schedules.
-
 
 ### My Example:
 My goals are to workout such that I can (i) improve my health, and (ii) achieve (and eventually maintain) an aesthetic physique. I have incorporated Mentzer's philosophy to my own workouts (which have a calisthenics flavour) in the following manner:
