@@ -26,7 +26,7 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 - An alternative if one is unable to gauge the failure point:
     - Perform the repetitions until one can no longer perform another complete repetition.
     - Jump to the 'peak' point of the repetition, pause for a moment, and then take the negative through slowly (i.e., 10 seconds).
-    - A caveat is that the notion of jumping into the peak position might not work for all exercises -- example of working ones: pull ups and dips.
+    - A caveat is that the notion of jumping into the 'peak' position might not work for all exercises -- example of working ones: pull ups and dips.
 
 **Rest and recovery:** 
 - The first idea is not to do too many sets, Mike Mentzer recommended one set but I assume this is not counting the warm-up sets. An example for weighted pull-ups is the following:
