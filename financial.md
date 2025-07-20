@@ -12,6 +12,7 @@ The components of attaining financial independence involve:
 - Emergency fund
 - Insurance
 - Investing
+- Tax reduction
 
 These topics will be introduced in more detail in the next few sections. In cases where there already exist excellent sources of explanation, I will link them here instead of reinventing the wheel.
 
@@ -44,6 +45,10 @@ My personal preference would be to go for the following choices:
 - **US choice:** [Vanguard S&P 500 UCITS ETF USD Accumulation (VUAA.L)](https://finance.yahoo.com/quote/VUAA.L/). The fund employs an indexing investment approach designed to track the performance of the Standard and Poor's 500 Index, a widely recognized benchmark of US stock market performance that is dominated by the stocks of large US companies. This fund can be bought through POEMS.
 - **Local choice:** [SPDR Straits Times Index ETF (ES3.SI)](https://sg.finance.yahoo.com/quote/es3.si/). This fund approximately mirrors the Straits Times Index (STI). It is usually compared to [Nikko AM Singapore STI ETF (G3B.SI)](https://sg.finance.yahoo.com/quote/G3B.SI/), but I prefer ES3.SI since the fund is larger which might allude to better stability. This fund can be bought through POEMS.
 
+**Roboinvestors.** One might often wonder if it is worth using roboinvestors instead of investing through trading platforms (as mentioned above). It turns out that if we are planning to invest a large amount of money for the long run, then the cost of roboinvestors eventually exceeds the cost of investing through trading platforms -- for a more concrete comparison, see this [case study](https://www.reddit.com/r/singaporefi/comments/t1u7yf/1000_is_all_you_need_for_diy_to_be_cheaper_than/) illustrating that $1000 is all you need for investing through trading plaforms to be cheaper than roboinvestors.
+
+### Tax reduction
+
 **Supplementary Retirement Scheme (SRS).** This is a voluntary scheme that complements the CPF, where we can contribute a varying amount (subject to a cap) every year -- the contributions may be used to purchase various investment instruments. The SRS offers attractive tax benefits. Contributions to SRS are eligible for tax relief, investment returns are accumulated tax-free (with the exception of Singapore dividends), and only 50% of the withdrawals from SRS are taxable at retirement. More details can be found [here](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/special-tax-schemes/srs-contributions). The steps to setting up SRS with POEMS are:
 - Open up an account (with either DBS, OCBC, or UOB). I went with DBS, the DBS instructions are listed [here](https://www.dbs.com.sg/personal/support/bank-account-srs-account-opening.html).
 - Link one's POEMS account with one's SRS account -- the instructions are listed [here](https://www.poems.com.sg/release-notes/poems-online-services-quick-reference-guide/#srscpf).
@@ -55,7 +60,5 @@ Do note that the withdrawal of SRS after retirement age can be a bit tricky (see
 - At the roughly the same date for 10 years, withdraw 40k SGD worth of cash/investments from your SRS account.
 - On the 10th year, withdraw everything that is left.
 - E.g., if the retirement age for the SRS account is 63, then you may start the withdrawal process after your 63rd birthday.
-
-**Roboinvestors.** One might often wonder if it is worth using roboinvestors instead of investing through trading platforms (as mentioned above). It turns out that if we are planning to invest a large amount of money for the long run, then the cost of roboinvestors eventually exceeds the cost of investing through trading platforms -- for a more concrete comparison, see this [case study](https://www.reddit.com/r/singaporefi/comments/t1u7yf/1000_is_all_you_need_for_diy_to_be_cheaper_than/) illustrating that $1000 is all you need for investing through trading plaforms to be cheaper than roboinvestors.
 
 *(Other things that might be of financial interest: lasting power of attorney, and writing of will -- explanations of these are omitted here.)*
