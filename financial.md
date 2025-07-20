@@ -48,6 +48,10 @@ My personal preference would be to go for the following choices:
 - Open up an account (with either DBS, OCBC, or UOB). I went with DBS, the DBS instructions are listed [here](https://www.dbs.com.sg/personal/support/bank-account-srs-account-opening.html).
 - Link one's POEMS account with one's SRS account -- the instructions are listed [here](https://www.poems.com.sg/release-notes/poems-online-services-quick-reference-guide/#srscpf).
 - After both steps are completed, one can log into POEMS and start investing. To use funds from your SRS account, select payment type as SRS when purchasing investments.
+- Do note that the withdrawal of SRS after retirement age can be a bit tricky (see [here](https://www.dbs.com.sg/personal/articles/nav/retirement/srs-withdrawals-stagger-and-save) for a comphrehensive detail) -- but do rest assure that you will definitely gain by a reduction of taxes, though minimization of taxes would require a staggering strategy (assuming one has more than 400k in his/her SRS by the time one retires):
+  - At the roughly the same date for 10 years, withdraw 40k SGD worth of cash/investments from your SRS account.
+  - On the 10th year, withdraw everything that is left.
+  - E.g., if the retirement age for the SRS account is 63, then you may start the withdrawal process after your 63rd birthday.
 
 (**Note.** ES3.SI introduced above can be bought using one's SRS funds -- this is personally what I use my SRS funds for.) 
 
