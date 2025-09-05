@@ -8,7 +8,7 @@ Publications are listed in reverse chronological order.
 
 [6] **Quantitative Group Testing and Pooled Data in the Linear Regime with Sublinear Tests** \
 Nelvin Tan, Pablo Pascual Cobo, and Ramji Venkataramanan \
-_In Submission_ \
+_IEEE Transactions on Information Theory, 2025_ \
 \[[**arxiv**](https://arxiv.org/abs/2408.00385)\] \[[**code**](https://github.com/PabloPasc/SC_AMP_QGT)\]
 
 [5] **Approximate Message Passing with Rigorous Guarantees for Pooled Data and Quantitative Group Testing** \
