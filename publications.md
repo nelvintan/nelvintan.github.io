@@ -43,8 +43,6 @@ Nelvin Tan, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
 _In Submission_ \
 \[[**arxiv**](https://arxiv.org/abs/2506.08734)\] \[[**code**](https://github.com/nelvintan/drift_detect)\]
 
-https://github.com/nelvintan/drift_detect
-
 [5] **Improved LLM Agents for Financial Document Question Answering** \
 Nelvin Tan, Zian Seng, Liang Zhang, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
 _In Submission_ \
