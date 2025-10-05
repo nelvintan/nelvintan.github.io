@@ -40,7 +40,7 @@ _IEEE Transactions on Information Theory, 2022_ \
 
 [7] **Does Using Counterfactual Help LLMs Explain Textual Importance in Classification?** \
 Nelvin Tan, James Asikin Cheung, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
-_In Submission_ \
+_In Submission_
 
 [6] **Flexible and Efficient Drift Detection without Labels** \
 Nelvin Tan, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
