@@ -42,15 +42,15 @@ _IEEE Transactions on Information Theory, 2022_ \
 Nelvin Tan, James Asikin Cheung, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
 _In Submission_
 
-[6] **Flexible and Efficient Drift Detection without Labels** \
-Nelvin Tan, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
-_In Submission_ \
-\[[**arxiv**](https://arxiv.org/abs/2506.08734)\] \[[**code**](https://github.com/nelvintan/drift_detect)\]
-
-[5] **Improved LLM Agents for Financial Document Question Answering** \
+[6] **Improved LLM Agents for Financial Document Question Answering** \
 Nelvin Tan, Zian Seng, Liang Zhang, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
 _In Submission_ \
 \[[**arxiv**](https://arxiv.org/abs/2506.08726)\]
+
+[5] **Flexible and Efficient Drift Detection without Labels** \
+Nelvin Tan, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
+_International Conference on Data Mining Workshops (ICDMW)_ \
+\[[**arxiv**](https://arxiv.org/abs/2506.08734)\] \[[**code**](https://github.com/nelvintan/drift_detect)\]
 
 [4] **Quantitative Group Testing and Pooled Data with Sublinear Number of Tests** \
 Nelvin Tan, Pablo Pascual Cobo, and Ramji Venkataramanan \
