@@ -50,7 +50,7 @@ _In Submission_ \
 
 [5] **Flexible and Efficient Drift Detection without Labels** \
 Nelvin Tan, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
-_International Conference on Data Mining Workshops (ICDMW)_ \
+_IEEE International Conference on Data Mining Workshops (ICDMW)_ \
 \[[**arxiv**](https://arxiv.org/abs/2506.08734)\] \[[**code**](https://github.com/nelvintan/drift_detect)\]
 
 [4] **Quantitative Group Testing and Pooled Data with Sublinear Number of Tests** \
@@ -65,12 +65,12 @@ _International Conference on Artificial Intelligence and Statistics (AISTATS), 2
 
 [2] **An Analysis of the DD Algorithm for Group Testing with Size Constrained Tests** \
 Nelvin Tan and Jonathan Scarlett \
-_International Symposium on Information Theory (ISIT), 2021_ \
+_IEEE International Symposium on Information Theory (ISIT), 2021_ \
 \[[**full version**](https://arxiv.org/abs/2201.03745)\] \[[**slides**](http://nelvintan.github.io/files/ISIT2021_slides.pdf)\]
 
 [1] **Near-Optimal Sparse Adaptive Group Testing** \
 Nelvin Tan and Jonathan Scarlett \
-_International Symposium on Information Theory (ISIT), 2020_ \
+_IEEE International Symposium on Information Theory (ISIT), 2020_ \
 \[[**arxiv**](https://arxiv.org/abs/2004.03119v1)\] \[[**slides**](http://nelvintan.github.io/files/ISIT2020_slides.pdf)\]
 
 ### Dissertations:
