@@ -40,7 +40,7 @@ _IEEE Transactions on Information Theory, 2022_ \
 
 [7] **Does Using Counterfactual Help LLMs Explain Textual Importance in Classification?** \
 Nelvin Tan, James Asikin Cheung, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
-_In Submission_
+_In Submission_ \
 \[[**arxiv**](https://arxiv.org/abs/2510.04031)\]
 
 [6] **Improved LLM Agents for Financial Document Question Answering** \
