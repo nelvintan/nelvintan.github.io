@@ -24,7 +24,7 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 - My understanding of this concept is to select an exercise (with a chosen weight / difficulty) such that you are only able to do around 10 repetitions for the upper body and 15 repetitions of lower body (since the lower body is known to have better stamina).
 - The exercise is then performed to failure, i.e., the point where you are no longer able to complete the repetition. At the point of failure, pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) very slowly -- one may count to 10 on the way down to help with the pacing.
 - An alternative way:
-    - Perform the repetitions until the point where the last repetition is no longer a complete repetition (i.e., when your current repetition no longer completes the full range of motion, stop).
+    - Perform the set to failure.
     - Jump to the 'peak' point of the repetition, pause for a moment, and then take the negative through slowly (i.e., 10 seconds).
     - A caveat is that the notion of jumping into the 'peak' position might not work for all exercises -- example of working ones: pull ups and dips.
 
