@@ -22,7 +22,7 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 
 **Pushing past failure.** 
 - My understanding of this concept is to select an exercise (with a chosen weight / difficulty) such that you are only able to do around 10 repetitions for the upper body and 15 repetitions of lower body (since the lower body is known to have better stamina).
-- The exercise is then performed to failure (i.e., the point where you are no longer able to do another repetition). At the point of failure, where you are no longer able to complete the full range of motion in the repetition, pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) very slowly -- one may count to 10 on the way down to help with the pacing.
+- The exercise is then performed to failure, i.e., the point where you are no longer able to complete the repetition. At the point of failure, where you are no longer able to complete the full range of motion in the repetition, pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) very slowly -- one may count to 10 on the way down to help with the pacing.
 - An alternative way:
     - Perform the repetitions until the point where the last repetition is no longer a complete repetition (i.e., when your current repetition no longer completes the full range of motion, stop).
     - Jump to the 'peak' point of the repetition, pause for a moment, and then take the negative through slowly (i.e., 10 seconds).
