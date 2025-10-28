@@ -25,7 +25,7 @@ His philosophy (named the heavy duty workout or high intensity training) behind 
 - The exercise is then performed to failure, i.e., the point where you are no longer able to complete the repetition. At the point of failure, pause for a bit (a few seconds) before going through the negative (remainder part of the repetition) very slowly -- one may count to 10 on the way down to help with the pacing.
 - An alternative way:
     - Perform the exercise set to failure.
-    - Jump to the 'peak' point of the repetition, pause for a moment, and then take the negative through slowly (i.e., 10 seconds). Some examples of 'peak' points: top position of a pull up / dip.
+    - Jump to the 'peak' point of the repetition, pause for a moment, and then take the negative through slowly (i.e., 10 seconds). Some examples of 'peak' points: top position of a pull up or dip.
     - A caveat is that the notion of jumping into the 'peak' position might not work for all exercises -- example of working ones: pull ups and dips.
 
 **Rest and recovery:** 
