@@ -61,4 +61,6 @@ Do note that the withdrawal of SRS after retirement age can be a bit tricky (see
 - On the 10th year, withdraw everything that is left.
 - E.g., if the retirement age for the SRS account is 63, then you may start the withdrawal process after your 63rd birthday.
 
+There are also other ways to obtain tax reliefs (i.e., reduce your personal income tax) -- refer to this [guide](https://www.income.com.sg/blog/tax-relief-singapore).
+
 *(Other things that might be of financial interest: lasting power of attorney, and writing of will -- explanations of these are omitted here.)*
