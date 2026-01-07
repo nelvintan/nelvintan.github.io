@@ -38,7 +38,7 @@ _IEEE Transactions on Information Theory, 2022_ \
 
 ### Conference Papers:
 
-[7] **Improved Evidence Extraction for Document Inconsistency Detection with LLMs** \
+[8] **Improved Evidence Extraction for Document Inconsistency Detection with LLMs** \
 Nelvin Tan, Yaowen Zhang, James Asikin Cheung, Fusheng Liu, Yu-Ching Shih, and Dong Yang \
 _In Submission_ \
 \[[**arxiv**](https://arxiv.org/abs/2601.02627)\]
