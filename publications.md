@@ -54,7 +54,7 @@ _In Submission_ \
 
 [5] **Flexible and Efficient Drift Detection without Labels** \
 Nelvin Tan, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
-_IEEE International Conference on Data Mining Workshops (ICDMW)_ \
+_IEEE International Conference on Data Mining Workshops (ICDMW), 2025_ \
 \[[**arxiv**](https://arxiv.org/abs/2506.08734)\] \[[**code**](https://github.com/nelvintan/drift_detect)\]
 
 [4] **Quantitative Group Testing and Pooled Data with Sublinear Number of Tests** \
