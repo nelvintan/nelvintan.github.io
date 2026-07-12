@@ -40,16 +40,17 @@ _IEEE Transactions on Information Theory, 2022_ \
 
 [8] **Improved Evidence Extraction and Metrics for Document Inconsistency Detection with LLMs** \
 Nelvin Tan, Yaowen Zhang, James Asikin Cheung, Fusheng Liu, Yu-Ching Shih, and Dong Yang \
-_In Submission_ \
+_arXiv:2601.02627, 2026_ \
 \[[**arxiv**](https://arxiv.org/abs/2601.02627)\]
 
 [7] **Does Using Counterfactual Help LLMs Explain Textual Importance in Classification?** \
 Nelvin Tan, James Asikin Cheung, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
+_arXiv:2510.04031, 2025_ \
 \[[**arxiv**](https://arxiv.org/abs/2510.04031)\]
 
 [6] **Improved LLM Agents for Financial Document Question Answering** \
 Nelvin Tan, Zian Seng, Liang Zhang, Yu-Ching Shih, Dong Yang, and Amol Salunkhe \
-_In Submission_ \
+_arXiv:2506.08726, 2025_ \
 \[[**arxiv**](https://arxiv.org/abs/2506.08726)\]
 
 [5] **Flexible and Efficient Drift Detection without Labels** \
