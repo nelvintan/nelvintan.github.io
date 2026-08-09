@@ -63,8 +63,7 @@ Personally, I do DCA but still set aside some lump sum amount in case of recessi
 (**Note.** ES3.SI introduced above can be bought using one's SRS funds -- this is personally what I use my SRS funds for.)
 
 Do note that the withdrawal of SRS after retirement age can be a bit tricky (see [here](https://www.dbs.com.sg/personal/articles/nav/retirement/srs-withdrawals-stagger-and-save) for a comprehensive detail) -- but do rest assure that you will definitely gain via a reduction of taxes, though minimization of taxes would require a staggering strategy (assuming one has more than 400k in his/her SRS by the time one retires):
-- At roughly the same date for 10 years, withdraw the maximum tax-free amount of cash/investments from your SRS account. For each year i, this amount can be calculated via:
-$\text{maximum tax-free amount in year i}=2\times(20000-\text{other taxable income in year i})$.
+- At roughly the same date for 10 years, withdraw the maximum tax-free amount of cash/investments from your SRS account. For each year i, this amount can be calculated via: maximum tax-free amount in year i = 2 x (20,000 SGD - other taxable income in year i).
 - On the 10th year, withdraw everything that is left.
 
 **When to start?** If the retirement age for the SRS account is 63, then you may start the withdrawal process after your 63rd birthday.
