@@ -45,7 +45,13 @@ My personal preference would be to go for the following choices:
 - **US choice:** [Vanguard S&P 500 UCITS ETF USD Accumulation (VUAA.L)](https://finance.yahoo.com/quote/VUAA.L/). The fund employs an indexing investment approach designed to track the performance of the Standard and Poor's 500 Index, a widely recognized benchmark of US stock market performance that is dominated by the stocks of large US companies. This fund can be bought through POEMS.
 - **Local choice:** [SPDR Straits Times Index ETF (ES3.SI)](https://sg.finance.yahoo.com/quote/es3.si/). This fund approximately mirrors the Straits Times Index (STI). It is usually compared to [Nikko AM Singapore STI ETF (G3B.SI)](https://sg.finance.yahoo.com/quote/G3B.SI/), but I prefer ES3.SI since the fund is larger which might allude to better stability. This fund can be bought through POEMS.
 
-**Roboinvestors.** One might often wonder if it is worth using roboinvestors instead of investing through trading platforms (as mentioned above). It turns out that if we are planning to invest a large amount of money for the long run, then the cost of roboinvestors eventually exceeds the cost of investing through trading platforms -- for a more concrete comparison, see this [case study](https://www.reddit.com/r/singaporefi/comments/t1u7yf/1000_is_all_you_need_for_diy_to_be_cheaper_than/) illustrating that $1000 is all you need for investing through trading plaforms to be cheaper than roboinvestors.
+**Roboinvestors.** One might often wonder if it is worth using roboinvestors instead of investing through trading platforms (as mentioned above). It turns out that if we are planning to invest a large amount of money for the long run, then the cost of roboinvestors eventually exceeds the cost of investing through trading platforms -- for a more concrete comparison, see this [case study](https://www.reddit.com/r/singaporefi/comments/t1u7yf/1000_is_all_you_need_for_diy_to_be_cheaper_than/) illustrating that $1000 is all you need for investing through trading platforms to be cheaper than roboinvestors.
+
+Simple low-effort investing strategies:
+- **Dollar-Cost Averaging (DCA).** You break your cash into equal portions and invest them systematically over regular intervals (e.g., monthly). This averages out your purchase price and removes the stress of trying to perfectly time market lows.
+- **Lump Sum Investing.** You invest your entire available pool of cash all at once. This maximizes your time in the market but exposes you to short-term timing risk if the market dips immediately afterward. This strategy is advantageous during recessions.
+
+Personally, I do DCA but still set aside some lump sum amount in case of recession-type opportunities.
 
 ### Tax reduction
 
@@ -56,11 +62,15 @@ My personal preference would be to go for the following choices:
 
 (**Note.** ES3.SI introduced above can be bought using one's SRS funds -- this is personally what I use my SRS funds for.)
 
-Do note that the withdrawal of SRS after retirement age can be a bit tricky (see [here](https://www.dbs.com.sg/personal/articles/nav/retirement/srs-withdrawals-stagger-and-save) for a comphrehensive detail) -- but do rest assure that you will definitely gain via a reduction of taxes, though minimization of taxes would require a staggering strategy (assuming one has more than 400k in his/her SRS by the time one retires):
-- At the roughly the same date for 10 years, withdraw 40k SGD worth of cash/investments from your SRS account.
+Do note that the withdrawal of SRS after retirement age can be a bit tricky (see [here](https://www.dbs.com.sg/personal/articles/nav/retirement/srs-withdrawals-stagger-and-save) for a comprehensive detail) -- but do rest assure that you will definitely gain via a reduction of taxes, though minimization of taxes would require a staggering strategy (assuming one has more than 400k in his/her SRS by the time one retires):
+- At roughly the same date for 10 years, withdraw the maximum tax-free amount of cash/investments from your SRS account. For each year i, this amount can be calculated via:
+$\text{maximum tax-free amount in year i}=2\times(20000-\text{other taxable income in year i})$.
 - On the 10th year, withdraw everything that is left.
-- E.g., if the retirement age for the SRS account is 63, then you may start the withdrawal process after your 63rd birthday.
 
-**Remark.** There are also other ways to obtain tax reliefs (i.e., reduce your personal income tax) -- refer to this [guide](https://www.income.com.sg/blog/tax-relief-singapore).
+**When to start?** If the retirement age for the SRS account is 63, then you may start the withdrawal process after your 63rd birthday.
+
+**Remarks:** 
+- Note that investment dividends (e.g., from ES3.SI) do not count as taxable income and will not impact your SRS withdrawal strategy.
+- There are also other ways to obtain tax reliefs (i.e., reduce your personal income tax) -- refer to this [guide](https://www.income.com.sg/blog/tax-relief-singapore).
 
 *(Other things that might be of financial interest: lasting power of attorney, and writing of will -- explanations of these are omitted here.)*
